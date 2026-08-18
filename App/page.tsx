@@ -2,6 +2,7 @@ tsx
 
 'use client';
 
+import React from 'react';
 import { useState, useCallback, useEffect, useRef } from "react";
 
 const PLAYING_CARDS = {
